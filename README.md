@@ -1,6 +1,7 @@
 ## TumorGANet: A Transfer Learning and Generative Adversarial Network-based Data Augmentation Model for Brain Tumor Classification
 
-ANINDYA NAG1, (Member, IEEE), HIRAK MONDAL2, MD. MEHEDI HASSAN1, (Member, IEEE), TAHER AL-SHEHARI3, MOHAMMED KADRIE3, MUNA AL-RAZGAN4, TAHA ALFAKIH5, SUJIT BISWAS6, (Member, IEEE) and ANUPAM KUMAR BAIRAGI 1,* (Senior Member, IEEE)
+ANINDYA NAG1, (Member, IEEE), HIRAK MONDAL2, MD. MEHEDI HASSAN1, (Member, IEEE), TAHER AL-SHEHARI3, MOHAMMED KADRIE3, MUNA AL-RAZGAN4, TAHA ALFAKIH5, SUJIT BISWAS6, (Member, IEEE) and ANUPAM KUMAR BAIRAGI 1,(Senior Member, IEEE)
+
 1 Computer Science and Engineering Discipline, Khulna University, Khulna 9208, Bangladesh (e-mail: anindyanag@ieee.org; mehedihassan@ieee.org;
 anupam@cse.ku.ac.bd)
 2 Department of Computer Science and Engineering, North Western University, Khulna -9000, Bangladesh, (e-mail: hirakmondal.cse@gmail.com)
