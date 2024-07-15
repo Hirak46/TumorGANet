@@ -2,14 +2,14 @@
 
 ANINDYA NAG1, (Member, IEEE), HIRAK MONDAL2, MD. MEHEDI HASSAN1, (Member, IEEE), TAHER AL-SHEHARI3, MOHAMMED KADRIE3, MUNA AL-RAZGAN4, TAHA ALFAKIH5, SUJIT BISWAS6, (Member, IEEE) and ANUPAM KUMAR BAIRAGI 1,(Senior Member, IEEE)
 
-1 Computer Science and Engineering Discipline, Khulna University, Khulna 9208, Bangladesh (e-mail: anindyanag@ieee.org; mehedihassan@ieee.org;
-anupam@cse.ku.ac.bd)
-2 Department of Computer Science and Engineering, North Western University, Khulna -9000, Bangladesh, (e-mail: hirakmondal.cse@gmail.com)
-3 Computer Skills, Department of Self-Development Skill, Common First Year Deanship, King Saud University, 11362, Riyadh, Saudi Arabia
-4 Department of Software Engineering, College of Computer and Information Sciences, King Saud University, Riyadh 11345, Saudi Arabia
-5 Department of Information Systems, College of Computer and Information Sciences, King Saud University, Riyadh 11543, Saudi Arabia
-6 Department of computer Science, City University of London, UK
+1 Computer Science and Engineering Discipline, Khulna University, Khulna 9208, Bangladesh (e-mail: anindyanag@ieee.org; mehedihassan@ieee.org; anupam@cse.ku.ac.bd)  
+2 Department of Computer Science and Engineering, North Western University, Khulna -9000, Bangladesh (e-mail: hirakmondal.cse@gmail.com, GitHub: https://github.com/hirakmondal)  
+3 Computer Skills, Department of Self-Development Skill, Common First Year Deanship, King Saud University, 11362, Riyadh, Saudi Arabia  
+4 Department of Software Engineering, College of Computer and Information Sciences, King Saud University, Riyadh 11345, Saudi Arabia  
+5 Department of Information Systems, College of Computer and Information Sciences, King Saud University, Riyadh 11543, Saudi Arabia  
+6 Department of Computer Science, City University of London, UK  
 Corresponding author: Anupam Kumar Bairagi (e-mail: anupam@cse.ku.ac.bd).
+
 
 #ABSTRACT
 
